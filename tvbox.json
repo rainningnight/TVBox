@@ -18,7 +18,6 @@
     {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
     {"key":"迪迪","name":"迪迪","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
     {"key":"极光","name":"极光","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="},
-    {"key":"快影","name":"快影","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
     {"key":"追忆","name":"追忆","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="},
     {"key":"csp_YQKan ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
@@ -45,18 +44,6 @@
     {"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1, "jar":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51"},
     {"key":"csp_Ying","name":"樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51"},
     {"key":"csp_Ysj","name":"异界动漫","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51"},
-
-    {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/虎牙直播.json"},
-    {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/斗鱼直播.json"},
-    {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/企鹅直播.json"},
-    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/Biliych.json"},
-    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/短视频.json"},
-    
-    {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/幼儿乐园.json"},
-    {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/少儿教育.json"},
-    {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/小学课堂.json"},
-    {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/初中课堂.json"},
-    {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cors.buildtest.site/https://github.com/2hacc/TVBox/raw/main/json/高中课堂.json"},
 
     {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
     {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
